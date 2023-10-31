@@ -23,7 +23,7 @@ function toNumber(id){
     return parseInt(result);
 }
 
-functionhandleClick()
+function handleClick(data)
 {
-    console.log(hello);
+    console.log("hello");
 }
